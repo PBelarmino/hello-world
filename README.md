@@ -1,6 +1,6 @@
 # hello-world
 
-branch
+main
 
 Just another useless repository
 
